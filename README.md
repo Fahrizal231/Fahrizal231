@@ -1,20 +1,22 @@
-# 👋 Hi, I'm Fahrizal Setiawan
+# 🚀 Welcome to My GitHub!  
 
-🚀 Developer | 💡 Tech Enthusiast | 🎵 The Smiths Fan  
+Hey there! I'm **Fahrizal**, a passionate **developer** who loves automating things, building APIs, and exploring new tech.  
 
-## 📌 About Me  
-- 🔥 Passionate about coding and automation  
-- 🌱 Currently learning REST API & Web Development  
-- 🛠️ Building cool stuff with JavaScript & Node.js  
-- 🤝 Open to collaborations on bot and API projects  
+## 👨‍💻 About Me  
+🔹 Love coding & problem-solving  
+🔹 Currently learning **REST API** & **Web Development**  
+🔹 Building **WhatsApp bots** & **custom scripts**  
+🔹 Big fan of **The Smiths** 🎵  
 
-## 🛠 Tech Stack  
-- 💻 Languages: JavaScript, HTML, CSS  
-- 🔧 Tools: Termux, Acode, WebCode  
-- 📡 Backend: Express.js, SQLite  
+## 🔥 Tech Stack  
+✨ **Languages:** JavaScript, HTML, CSS  
+⚙️ **Tools:** Termux, Acode, WebCode  
+🖥️ **Backend:** Express.js, SQLite  
 
-## 📫 Let's Connect  
-- 🌐 Website: [acioooomd.biz.id](https://acioooomd.biz.id)  
-- 💬 WhatsApp Bot & Script Services: Coming Soon!  
+## 🌐 Projects & Services  
+🚀 **[acioooomd.biz.id](https://acioooomd.biz.id)** – A hub for bot scripts & APIs  
+📲 WhatsApp Bot & Script Store – Coming Soon!  
 
-_"There is a light that never goes out."_ ✨
+## 📩 Let's Connect!  
+💬 DM me for collaborations or tech talks!  
+_"To die by your side is such a heavenly way to die."_ – The Smiths 🎶
