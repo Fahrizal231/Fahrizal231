@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Fahrizal231
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Fahrizal Setiawan
 
-<!---
-Fahrizal231/Fahrizal231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Developer | 💡 Tech Enthusiast | 🎵 The Smiths Fan  
+
+## 📌 About Me  
+- 🔥 Passionate about coding and automation  
+- 🌱 Currently learning REST API & Web Development  
+- 🛠️ Building cool stuff with JavaScript & Node.js  
+- 🤝 Open to collaborations on bot and API projects  
+
+## 🛠 Tech Stack  
+- 💻 Languages: JavaScript, HTML, CSS  
+- 🔧 Tools: Termux, Acode, WebCode  
+- 📡 Backend: Express.js, SQLite  
+
+## 📫 Let's Connect  
+- 🌐 Website: [acioooomd.biz.id](https://acioooomd.biz.id)  
+- 💬 WhatsApp Bot & Script Services: Coming Soon!  
+
+_"There is a light that never goes out."_ ✨
