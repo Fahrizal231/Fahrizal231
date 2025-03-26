@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Hey, I'm Fahrizal231 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Aspiring+Developer+%7C+Always+Learning;Building+REST+APIs+%7C+Bot+Automation;Debugging+%E2%9C%94%EF%B8%8F+%7C+Fixing+Bugs+%E2%9C%98%EF%B8%8F;Passionate+about+Tech+%26+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EF9F9&center=true&vCenter=true&width=600&lines=Full-stack+Newbie+%7C+Always+Learning;Building+REST+APIs+%7C+Bot+Automation;Debugging+Like+a+Pro+%F0%9F%94%A5;Code%2C+Deploy%2C+Repeat!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,35 +15,36 @@
 
 ---
 
-## 🔥 About Me  
-🚀 **Exploring the world of development**  
-💡 Passionate about **automation, REST APIs, and bot creation**  
-🔧 Debugging things at **3 AM with coffee**  
+## 🔥 Who Am I?  
+🚀 **A future full-stack developer in the making!**  
+💡 Passionate about **automation, REST APIs, and AI bots**  
+🛠 Building **AciooBot & REST APIs** with Termux & SQLite  
+☕ Debugging bugs at **3 AM with unlimited coffee**  
 
 ---
 
 ## ⚡ Tech Stack  
 🖥 **Languages:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 🔧 **Tools & Platforms:**  
-![Termux](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=termux&logoColor=white)
-![Acode](https://img.shields.io/badge/-Acode-0081CB?style=flat-square&logo=android&logoColor=white)
-![WebCode](https://img.shields.io/badge/-WebCode-32A2E3?style=flat-square&logo=codeigniter)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Termux](https://img.shields.io/badge/-Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
+![Acode](https://img.shields.io/badge/-Acode-0081CB?style=for-the-badge&logo=android&logoColor=white)
+![WebCode](https://img.shields.io/badge/-WebCode-32A2E3?style=for-the-badge&logo=codeigniter)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 📦 **Databases:**  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects  
-🔹 **[REST APIs](#)** – Building my first API from scratch!  
-🤖 **[AciooBot](#)** – A bot project in development!  
-🛠 **More cool stuff coming soon...**  
+🎯 **[REST APIs](#)** – My first API project, handling requests like a pro!  
+🤖 **[AciooBot](#)** – Automation meets intelligence!  
+📡 **[More cool projects coming soon...](#)**  
 
 ---
 
@@ -52,13 +53,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Fahrizal231&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahrizal231&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahrizal231&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Connect with Me  
+## 🚀 Fun Fact  
+💡 **The best way to learn code?** Keep breaking it until you fix it.  
+
+---
+
+## 📫 Let's Connect!  
 📌 **GitHub:** [@Fahrizal231](https://github.com/Fahrizal231)  
-💬 **DM me if you're also debugging at 3 AM!**  
+☕ **Buy me a coffee?** [Click Here!](#)  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Keep%20Coding-%F0%9F%94%A5-blue?style=for-the-badge" />
