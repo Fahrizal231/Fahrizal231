@@ -1,53 +1,49 @@
-<h1 align="center">🚀 Welcome to My Coding Universe! 👨‍💻</h1>
+<!-- 🚀 WELCOME -->
+<h1 align="center">Hey there, I'm Fahrizal 👋</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Newbie-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Power-Coffee%20%26%20Debugging-black?style=flat-square&logo=coffee" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Newbie-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Power-Coffee%20%26%20Debugging-black?style=for-the-badge&logo=coffee" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVjZDM3NGUxMjljYzVmODhlMjg4NmI4OTg5MzRmNTRlYzE2YjI1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OQ8z6kCVNhHmo/giphy.gif" width="250" />
 </p>
 
 ---
 
-### 🌟 About Me  
-> _"Not a pro, but I code like I'm one!"_  
-
-🔹 **Newbie** trying to make sense of code.  
-🔹 **Breaking things** (and fixing them later).  
-🔹 Learning **one bug at a time**.  
+## 🚀 About Me
+🛠️ Self-taught dev exploring the world of coding.  
+💡 Curious about how things break (and how to fix them).  
+⚡ Still figuring out JavaScript (send help).  
 
 ---
 
-### 🛠️ Tech Stack & Tools  
-💻 **Languages:**  
-`HTML` | `CSS` | `JavaScript` | `Python (Basic)`  
+## 🔥 My Tech Stack  
+🖥 **Languages:**  
+`HTML` | `CSS` | `JavaScript` | `Python (Basic)`
 
-🛠️ **Tools & Platforms:**  
-🔹 **Termux** | **Acode** | **V Code**  
-🔹 **GitHub & Vercel**  
-🔹 **SQLite for simple databases**  
-
----
-
-### 🚀 Current Missions  
-✅ **Build My First REST API**  
-✅ **Survive JavaScript (barely)**  
-✅ **Create Something Cool (eventually...)**  
+⚙ **Tools & Platforms:**  
+🔹 Termux | Acode | WebCode  
+🔹 GitHub | Vercel  
+🔹 SQLite for simple databases  
 
 ---
 
-### 💡 Projects (a.k.a My Experiments)  
-🔥 **[Rest APIs](#)** – My first API project!  
-🤖 **[AciooBot](#)** – A bot project I’m working on!  
+## 📌 My Projects  
+✨ **[REST APIs](#)** → Building my first API!  
+🤖 **[AciooBot](#)** → A bot project in progress!  
 
-🚧 More projects coming soon (if my code doesn't explode)!  
+🎯 More projects coming soon... hopefully!  
+
+---
+
+## 📫 Contact Me  
+🔗 GitHub: [@Fahrizal231](https://github.com/Fahrizal231)  
+💬 DM me if you're also debugging at 3 AM!  
 
 ---
 
-### 🌎 Where to Find Me  
-📌 GitHub: [@Fahrizal231](https://github.com/Fahrizal231)  
-💬 DM me if you’re also struggling with code!  
-
----
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" />
+  <img src="https://img.shields.io/badge/Keep%20Coding-%F0%9F%94%A5-blue?style=for-the-badge" />
 </p>
