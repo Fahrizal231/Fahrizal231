@@ -1,48 +1,53 @@
-<h1 align="center">👨‍💻 Welcome to My Coding Journey! 🚀</h1>
+<h1 align="center">🚀 Welcome to My Coding Universe! 👨‍💻</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Newbie-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Made%20With-Persistence-green?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Power-Coffee%20%26%20Debugging-black?style=for-the-badge&logo=coffee" />
 </p>
 
 ---
 
-## 🎯 Who Am I?  
-🔹 Just a beginner exploring the world of programming.  
-🔹 Passionate about building things, even if they break sometimes.  
-🔹 Always curious, always learning, always debugging.  
+### 🌟 About Me  
+> _"Not a pro, but I code like I'm one!"_  
+
+🔹 **Newbie** trying to make sense of code.  
+🔹 **Breaking things** (and fixing them later).  
+🔹 Learning **one bug at a time**.  
 
 ---
 
-## 🛠️ What I’m Learning  
-🚀 **Languages & Tech:**  
-- HTML, CSS, JavaScript  
-- Python (Basic)  
-- REST API & SQLite  
+### 🛠️ Tech Stack & Tools  
+💻 **Languages:**  
+`HTML` | `CSS` | `JavaScript` | `Python (Basic)`  
 
-🛠 **Tools & Platforms:**  
-- Termux, Acode, WebCode  
-- Git & GitHub  
-- Vercel for hosting  
+🛠️ **Tools & Platforms:**  
+🔹 **Termux** | **Acode** | **V Code**  
+🔹 **GitHub & Vercel**  
+🔹 **SQLite for simple databases**  
 
 ---
 
-## 🌟 Current Goals  
-✅ Build my first functional REST API  
-✅ Improve my JavaScript & backend skills  
-✅ Keep pushing forward, no matter what  
+### 🚀 Current Missions  
+✅ **Build My First REST API**  
+✅ **Survive JavaScript (barely)**  
+✅ **Create Something Cool (eventually...)**  
 
 ---
 
-## 🚀 My Projects  
-👨‍💻 **[AciooBot](#)** – On Going!  
-⚙️ **[REST API](#)** – Work in progress...  
+### 💡 Projects (a.k.a My Experiments)  
+🔥 **[Rest APIs](#)** – My first API project!  
+🤖 **[AciooBot](#)** – A bot project I’m working on!  
 
-*(More coming soon!)*  
+🚧 More projects coming soon (if my code doesn't explode)!  
 
 ---
 
-## 📬 Let's Connect!  
-💬 Feel free to reach out if you're also on a learning journey!  
-🔗 GitHub: [@Fahrizal231](#)
+### 🌎 Where to Find Me  
+📌 GitHub: [@Fahrizal231](https://github.com/Fahrizal231)  
+💬 DM me if you’re also struggling with code!  
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" />
+</p>
